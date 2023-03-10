@@ -1,0 +1,21 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Entorno virtual
+venv/
+env/
+.env
+.env.*
+.venv/
+ENV/
+env.bak/
+python_environment*
